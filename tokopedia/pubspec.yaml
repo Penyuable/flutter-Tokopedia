@@ -1,0 +1,39 @@
+name: tokopedia
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.3 <4.0.0"
+
+dependencies:
+  carousel_slider: ^4.2.1
+  flutter:
+    sdk: flutter
+  flutter_svg_provider: ^1.0.7
+  persistent_bottom_nav_bar_v2: ^5.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/box.png
+    - images/buy.png
+    - images/ulas.png
+    - images/belanja.png
+    - images/notifikasi.png
+    - images/envelope.png
+    - images/cart.png
+    - images/more.png
+    - images/bx2.png
+    - images/selesai.png
+    - images/info.png
+    - images/transfer.png
+    - images/mny.png
+    - images/iklan.png
+    - images/header.png
+    - images/
